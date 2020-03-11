@@ -45,7 +45,12 @@ body, html {
 }
 
 .bgimg-4 {
-  background-image: url("images/voters.jpg");
+  background-image: url("images/voters.png");
+  min-height: 400px;
+}
+
+.bgimg-5 {
+  background-image: url("images/chiledesperto.jpg");
   min-height: 400px;
 }
 
